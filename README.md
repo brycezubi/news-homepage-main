@@ -20,10 +20,11 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- JavaScript
 
 ### Screenshot
 
-![Design preview for the News Home Page coding challenge](https://github.com/Orisabiyi/qr-component-code/blob/main/design/desktop-preview.jpg)
+![Design preview for the News Home Page coding challenge](https://github.com/brycezubi/news-homepage-main/blob/main/assets/design/desktop-preview.jpg)
 
 ### Links
 
